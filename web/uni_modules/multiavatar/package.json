@@ -1,0 +1,65 @@
+{
+  "_from": "@multiavatar/multiavatar",
+  "_id": "@multiavatar/multiavatar@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-Yg9Uw57bmlErsWL0CSv4d6D4ZqVBE00OZmYr9MRgygoXZdboNtsEI6FbBRw1AY8l88Sm1ARcyojtlm2uwUn0Zg==",
+  "_location": "/@multiavatar/multiavatar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@multiavatar/multiavatar",
+    "name": "@multiavatar/multiavatar",
+    "escapedName": "@multiavatar%2fmultiavatar",
+    "scope": "@multiavatar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/@multiavatar/multiavatar/-/multiavatar-1.0.7.tgz",
+  "_shasum": "bc2b855bab728a51ee9cee2412ee9f76282b7c78",
+  "_spec": "@multiavatar/multiavatar",
+  "_where": "/Users/limengyun/Desktop/html/dbook",
+  "author": {
+    "name": "Gie Katon",
+    "email": "git@giekaton.com",
+    "url": "http://giekaton.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/multiavatar/Multiavatar/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Multicultural Avatar Generator",
+  "exports": {
+    ".": "./dist/commonjs/index.js",
+    "./esm": "./dist/esm/index.js"
+  },
+  "homepage": "https://multiavatar.com",
+  "keywords": [
+    "avatar",
+    "profile",
+    "picture",
+    "image",
+    "generator",
+    "maker",
+    "creator"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "./dist/commonjs/index.js",
+  "module": "./dist/esm/index.js",
+  "name": "@multiavatar/multiavatar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multiavatar/Multiavatar.git"
+  },
+  "scripts": {
+    "build": "node -e \"const fs = require('fs'); if (!fs.existsSync('./dist')){ fs.mkdirSync('./dist'); } if (!fs.existsSync('./dist/commonjs')){ fs.mkdirSync('./dist/commonjs'); } if (!fs.existsSync('./dist/esm')){ fs.mkdirSync('./dist/esm'); } const package = '{ \"\"type\"\": \"\"commonjs\"\" }'; fs.writeFileSync('./dist/commonjs/package.json', package); const s = fs.readFileSync('multiavatar.min.js', 'utf8'); const commonjs = s + ' module.exports = multiavatar;'; fs.writeFileSync('./dist/commonjs/index.js', commonjs); const esm = s + ' export default multiavatar;'; fs.writeFileSync('./dist/esm/index.js', esm); \""
+  },
+  "type": "module",
+  "version": "1.0.7"
+}

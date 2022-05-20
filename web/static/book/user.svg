@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="图层_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200"
+	 style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6783E9;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="158.33" width="133.33" x="33.33" y="16.67"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<path class="st0" d="M140.32,115.95c15.88,6.08,26.35,17.32,26.35,34.31v17.69c0,8.5-6.89,15.38-15.38,15.38H48.72
+	c-8.5,0-15.38-6.89-15.38-15.38v-17.7c0-17,10.47-28.22,26.35-34.31c2.7-1.04,5.76-0.37,7.78,1.71c0.96,0.98,1.78,1.78,2.48,2.38
+	c8.36,7.19,19.02,11.14,30.05,11.13c11.38,0.02,22.36-4.18,30.82-11.79c0.5-0.45,1.08-1.02,1.75-1.7
+	C134.58,115.59,137.62,114.92,140.32,115.95z M100,25c21.24,0,38.46,17.22,38.46,38.46l0,0v17.71c0,21.24-17.22,38.46-38.46,38.45
+	c-21.24,0-38.45-17.22-38.45-38.45V63.46C61.54,42.22,78.76,25,100,25z"/>
+</svg>

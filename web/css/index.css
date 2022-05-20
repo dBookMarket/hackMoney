@@ -1,0 +1,257 @@
+html {
+	font-size: 100px;
+}
+
+body {
+	font-size: 14px;
+	min-height: 101%;
+	overflow: auto;
+	background: #F6F6F6;
+	
+}
+
+* {
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+::-webkit-scrollbar {
+  /*滚动条整体样式*/
+  width: 4px; /*高宽分别对应横竖滚动条的尺寸*/
+  height: 1px;
+}
+::-webkit-scrollbar-thumb {
+  /*滚动条里面小方块*/
+  border-radius: 10px;
+  box-shadow: inset 0 0 5px rgba(97, 184, 179, 0.1);
+  background: #6783E9;
+}
+::-webkit-scrollbar-track {
+  /*滚动条里面轨道*/
+  box-shadow: inset 0 0 5px rgba(87, 175, 187, 0.1);
+  border-radius: 10px;
+  background: #ededed;
+}
+#app {
+	width: 100%;
+	margin: 0 auto;
+	min-width: 1440px;
+	background: #F6F6F6;
+}
+
+.maincolor {
+	color: #6783E9 !important;
+	cursor: pointer;
+}
+
+.navbg,
+.bootombg {
+	width: 100%;
+}
+
+.nav,
+.bootom {
+	width: 94%;
+	margin: 0 auto;
+	height: 0.8rem;
+	line-height: 0.8rem;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bootom {
+	text-align: center;
+}
+
+.bootom .left,
+.bootom .center,
+.bootom .right {
+	flex: 1;
+	cursor: pointer;
+}
+
+.bootom .logo {
+	vertical-align: middle;
+	width: 1.22rem;
+	height: .22rem;
+}
+
+.nav .left {
+	flex: 1.5;
+	font-size: 0.18rem;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.bootom .love {
+	vertical-align: middle;
+	width: .15rem;
+	height: .15rem;
+	margin-left: .05rem;
+	margin-right: .05rem;
+}
+
+.nav .left .logo {
+	vertical-align: middle;
+	width: 1.22rem;
+	height: .25rem;
+}
+
+.nav .text {
+	font-family: Alibaba PuHuiTi;
+	font-weight: 500;
+	color: #000000;
+	cursor: pointer;
+	text-decoration: none;
+	padding-right: 0.8rem;
+}
+
+.nav .center {
+	flex: 4;
+	text-align: center;
+	font-size: 0.18rem;
+	color: #000000;
+	font-weight: bold;
+}
+
+.nav .right {
+	flex: 1;
+	text-align: right;
+	font-size: 0.18rem;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	font-weight: bold;
+}
+
+.navbg .nav .cflex {
+	flex: 2;
+}
+
+.button {
+	cursor: pointer;
+	width: 2.5rem;
+	border: 0;
+	display: inline-block;
+	border-radius: 0.2rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	vertical-align: middle;
+	font-size: 0.18rem;
+	color: #fff;
+	background: #6783E9;
+}
+
+:root .button {
+	filter: none;
+}
+
+
+uni-textarea {
+	width: 100%;
+}
+.uni-textarea-textarea{
+	overflow-y: hidden !important;
+}
+uni-modal .uni-modal{
+	border-radius: .1rem !important;
+}
+.container {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+	margin: .36rem auto;
+	font-family: Alibaba PuHuiTi;
+	font-weight: 400;
+}
+
+.container .left {
+	flex: 1.2;
+}
+
+.container .right {
+	flex: 3.2;
+}
+
+.container .author {
+	margin-top: .1rem;
+	width: 30%;
+	text-align: left;
+	padding: 0rpx 20rpx;
+	background: #E1E1E1;
+	border-radius: .18rem;
+	height: .2rem;
+	line-height: .2rem;
+	font-size: 24rpx;
+	color: #999999;
+}
+
+.fontStyle {
+	position: absolute;
+	z-index: 10;
+	width: 3rem;
+	flex: 1;
+	text-align: left;
+	top: 1.5rem;
+}
+
+.fontStyle img {
+	width: 3rem;
+	display: block;
+	margin-bottom: 0.2rem;
+}
+
+.fontStyle span {
+	width: 3rem;
+	color: #9A9A9A;
+	font-size: 0.15rem;
+	text-align: left;
+	font-family: "Microsoft JhengHei";
+	line-height: .25rem;
+}
+
+uni-radio .uni-radio-input {
+	width: .18rem !important;
+	height: .18rem !important;
+}
+
+uni-toast .uni-toast {
+	width: 11em;
+}
+.uni-input-placeholder{
+	font-weight: 400;
+}
+.border-style{
+	border-radius:0 0 .2rem .2rem;
+}
+.deal {
+	width: 2.6rem;
+	height: 1.6rem;
+	background: #FFFFFF;
+	border-radius: .15rem;
+	text-align: center;
+	font-size: 30rpx;
+	color: #000000;
+}
+
+.deal .img {
+	width: .66rem;
+	height: .68rem;
+	margin-top: 0.25rem;
+	margin-bottom: .15rem;
+}
+
+.deal .img1 {
+	width: .56rem;
+	height: .7rem;
+	margin-top: 0.25rem;
+	margin-bottom: .15rem;
+}
+
+.deal .img2 {
+	width: .66rem;
+	height: .66rem;
+	margin-top: 0.25rem;
+	margin-bottom: .15rem;
+}

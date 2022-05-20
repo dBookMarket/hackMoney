@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="图层_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 200 200"
+	 style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#6783E9;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="199.59" width="199.59" x="0.39" y="-1.29"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<circle class="st0" cx="100.18" cy="101.5" r="99.79"/>
+<path class="st1" d="M157.48,128.67c-0.36-7.7-3.65-14.98-9.21-20.33l-9.21-9.21c-2.83-2.96-7.52-3.07-10.48-0.25
+	c-2.96,2.83-3.07,7.52-0.25,10.48c0.08,0.08,0.16,0.17,0.25,0.25l9.21,9.21c2.89,2.74,4.6,6.5,4.77,10.48
+	c0.2,3.52-1.06,6.97-3.49,9.53c-2.37,2.31-5.58,3.57-8.89,3.49c-4.15-0.21-8.1-1.9-11.12-4.77l-23.19-23.19
+	c-5.72-5.12-6.29-13.88-1.27-19.69c2.96-2.83,3.07-7.52,0.25-10.48c-2.83-2.96-7.52-3.07-10.48-0.25c-0.08,0.08-0.17,0.16-0.25,0.25
+	c-5.18,5.1-8.05,12.1-7.94,19.38c0.11,8.13,3.42,15.89,9.21,21.6l23.19,23.19c5.72,5.77,13.47,9.08,21.6,9.21
+	c7.25,0.02,14.22-2.83,19.38-7.94C155.15,144.16,158.06,136.49,157.48,128.67L157.48,128.67z"/>
+<path class="st1" d="M72,90.41l-6.33-6.33l-3.18-3.18c-2.85-2.68-4.65-6.28-5.08-10.17c-0.2-3.52,1.06-6.97,3.49-9.53
+	c2.37-2.31,5.58-3.57,8.89-3.49c4.19,0.07,8.18,1.78,11.12,4.77l23.19,23.19c5.72,5.12,6.29,13.88,1.27,19.69
+	c-2.96,2.83-3.07,7.52-0.25,10.48c2.83,2.96,7.52,3.07,10.48,0.25c0.08-0.08,0.17-0.16,0.25-0.25c5.18-5.1,8.05-12.1,7.94-19.38
+	c-0.11-8.13-3.42-15.89-9.21-21.6L91.39,51.68c-5.72-5.77-13.47-9.08-21.6-9.21c-7.25-0.02-14.22,2.83-19.38,7.94
+	c-5.39,5.48-8.27,12.96-7.94,20.64c0.36,7.7,3.65,14.98,9.21,20.33l3.18,3.18l6.03,6.33c2.91,2.86,7.57,2.86,10.48,0
+	c3.06-2.57,3.46-7.13,0.9-10.19c-0.08-0.1-0.17-0.2-0.26-0.3L72,90.41z"/>
+</svg>
